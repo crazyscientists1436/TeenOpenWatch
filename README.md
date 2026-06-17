@@ -37,3 +37,21 @@ That’s when I wanted to get an open-source watch for myself. But the good open
 
 # BOM(Bill Of Materials),
 <img width="2480" height="3509" alt="BOM_page-0001" src="https://github.com/user-attachments/assets/1816afc9-8b9f-4d43-851b-4a66005193ed" />
+
+## Bill of Materials (BOM)
+
+| Sr No | Component | Quantity | Price (INR) |
+|-------|-----------|----------|-------------|
+| 1 | ESP32-C3 Super Mini Development Board | 1 | ₹274 |
+| 2 | 5D Rocker Joystick | 1 | ₹71 |
+| 3 | OLED Display 0.96 Inch I2C Interface (4 Pin) | 1 | ₹138 |
+| 4 | MAX30100/30102 Heart Rate Oxygen Pulse Sensor | 1 | ₹92 |
+| 5 | 100K Ohm 1/4 Watt Resistor | 1 | ₹6 |
+| 6 | Micro Coin Vibration Motor (10mm) | 1 | ₹26 |
+| 7 | 3.7V 2200mAh Li-Po Rechargeable Battery | 1 | ₹237 |
+| 8 | Type-C Lithium-Ion Charging Module | 1 | ₹35 |
+| 9 | Micro SMD Slide Switch | 1 | ₹35 |
+
+**Total Components:** 9
+
+**Total Cost:** ₹914
