@@ -1,4 +1,4 @@
-insta.id>- https://www.instagram.com/crazysciantist1436
+insta.id>- https://www.instagram.com/crazyscientist1436
 ## TeenOpenWatch
 a open source watch build by teen for teens and passionate peoples.
 
