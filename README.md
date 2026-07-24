@@ -1,9 +1,9 @@
-insta.id>- @crazysciantist1436
+insta.id>- https://www.instagram.com/crazysciantist1436
 ## TeenOpenWatch
 a open source watch build by teen for teens and passionate peoples.
 
 # A short description of what project is...
-A fully custom DIY smartwatch built from scratch on an ESP32-C3 microcontroller, featuring a 0.96" OLED display, real-time heart rate and SpO2 monitoring, Blynk IoT connectivity, a 5D joystick navigation, vibration motor alerts, laser pointer, and PixelPal — an animated emotional face bot. It syncs time via WiFi NTP, sends health data to your phone dashboard, and includes 12 functional screens with persistent flash storage — all built from discrete components costing under ₹500.
+A fully custom DIY smartwatch built from scratch on an ESP32-C3 microcontroller, featuring a 0.96" OLED display, real-time heart rate and SpO2 monitoring, Blynk IoT connectivity, a 5D joystick navigation, vibration motor alerts, laser pointer, and PixelPal — an animated emotional face bot. It syncs time via WiFi NTP, sends health data to your phone dashboard, and includes 12 functional screens with persistent flash storage — all built from discrete components costing under ₹900.
 
 # A couple sentences on why I made this project ?
 I know this might sound like a flex, but honestly every teenager likes having something unique — something different from everyone else. I also wanted to buy a smartwatch, so I kept searching for different watches. While searching, I discovered open-source watches, and I really liked their concept. The idea was amazing — you can customize them however you want, write your own code, either completely by yourself or with some help. It felt really creative and exciting.
