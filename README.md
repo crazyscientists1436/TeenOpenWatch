@@ -1,8 +1,8 @@
-insta.id>- https://www.instagram.com/crazyscientist1436
-
 Hi, it's me **Shrvan S. Shinde** I am a teenager and this is 
 ## TeenOpenWatch
 a open source watch build by teen for teens and passionate peoples.
+
+insta.id>- https://www.instagram.com/crazyscientist1436
 
 # A short description of what project is...
 A fully custom DIY smartwatch built from scratch on an ESP32-C3 microcontroller, featuring a 0.96" OLED display, real-time heart rate and SpO2 monitoring, Blynk IoT connectivity, a 5D joystick navigation, vibration motor alerts, laser pointer, and PixelPal — an animated emotional face bot. It syncs time via WiFi NTP, sends health data to your phone dashboard, and includes 12 functional screens with persistent flash storage — all built from discrete components costing under ₹900.
