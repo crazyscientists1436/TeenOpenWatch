@@ -1,4 +1,6 @@
 insta.id>- https://www.instagram.com/crazyscientist1436
+
+Hi, it's me **Shrvan S. Shinde** I am a teenager and this is 
 ## TeenOpenWatch
 a open source watch build by teen for teens and passionate peoples.
 
